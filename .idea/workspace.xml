@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="488fe21d-4df4-497c-a1a7-adb59bc55008" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/activation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/EmailLoginResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/OptionsWindowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/services/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/model/EmailAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/ColorTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/FontSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/OptionsWindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/fontBig.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/fontMedium.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/fontSmall.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/themeDark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/themeDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/css/themeLight.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProjectJavaFx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProjectJavaFx.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/iamwintrow/email/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/LoginWindowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/LoginWindowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/MainWindowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/controller/MainWindowController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/iamwintrow/email/view/MainWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/MainWindow.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/iamwintrow/email/view/ViewFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iamwintrow/email/view/ViewFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +38,9 @@
       <list>
         <option value="module-info" />
         <option value="FxmlFile" />
+        <option value="CSS File" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -41,11 +64,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Lenovo Carbon X1/Desktop/SceneBuilder.lnk",
+    "last_opened_file_path": "C:/Users/Lenovo Carbon X1/Documents/javaActivationJar/activation.jar",
+    "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -77,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672533562986</updated>
-      <workItem from="1672533564386" duration="8488000" />
+      <workItem from="1672533564386" duration="19527000" />
     </task>
     <servers />
   </component>
